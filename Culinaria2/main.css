@@ -1,0 +1,77 @@
+.icones{
+	max-height:20px;
+}
+.icones-ok{
+	max-height: 50px;
+	margin-top: -25%;
+}
+#header{
+	/*tamanho e imagem do topo*/
+	height: 380px;
+	background-image: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.2)), url(bootstrap-3.3.7-dist/img/fundoSite.jpg);
+}
+.titulo{
+	/*tamanho,cor e fonte titulo*/
+	color: #EEE9E9;
+	font-family: Forte;
+	font-size: 100px;
+	/*posicionamento*/
+	margin-left: 32%;
+}
+.titulo:hover{
+	color: #EEE9E9;
+	font-family: Forte;
+	font-size: 100px;
+	text-decoration: none;
+}
+.btn{
+	height: 80px;
+	padding-top: 6.5%;
+	font-size: 25px;
+	color: #363636;
+	width: 315px;
+}
+.btn:hover{
+	background-image: linear-gradient(rgba(0,0,0,0.03), rgba(0,0,0,0.03));
+	color: red;
+	text-decoration: underline;
+}
+.github{
+	color: #363636;
+}
+.github:hover{
+	text-decoration: none;
+	color: #363636;	
+}
+footer{
+	margin-top: 0.5%;
+}
+legend{
+	margin-top: -1%;
+	padding-top: 9%;
+}
+fieldset{
+	padding: 2%;
+	background-color: #E8E8E8;
+	margin-top: -9%;
+	border-radius: 3%;
+}
+.imgcarro{
+	max-height: 500px;
+	max-width: 1000px;
+}
+.carousel-caption{
+	/*cor,transparencia,tamanho e posição*/
+	background: black;
+	opacity: 0.8;
+	width: 900px;
+	margin-bottom: -1.5%;
+	height: 150px;
+	text-align: left;
+	padding: 2%;
+	margin-left: -3.3%;
+	padding-bottom: 14%;
+}
+.btn2{
+	width: 37px;
+}

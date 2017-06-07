@@ -1,0 +1,13 @@
+TRABALHO DE TPI - PARA DIA 29/05/17
+
+grupo de ate 3 pessoas;
+
+montar um site utilizando bootstrap com 3,4 paginas;
+
+Temas:
+
+teatro;
+anime (maneira geral);
+selecionar um tipo musical;
+culinaria;
+qualquer instituição.
