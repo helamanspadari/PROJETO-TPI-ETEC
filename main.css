@@ -1,3 +1,7 @@
+body{
+	margin: 0;
+}
+
 .icones{
 	max-height:20px;
 }
@@ -76,4 +80,39 @@ fieldset{
 }
 .btn2{
 	width: 37px;
+}
+.imagensreceita{
+	max-height: 120px;
+	max-width: 150px;
+}
+.imagensmodal{
+	float: right;
+	margin-right: 50px;
+	height: 200px;
+	width: 200px;
+}
+.modal-title{
+	text-align: center;
+}
+.modal-body{
+	text-align: justify;
+}
+.col-md-3{
+	font-weight: bold;
+}
+.negrito{
+	font-size: 130%;
+	font-weight: bold;
+}
+.ingredientes{
+	font-size: 120%;
+	font-weight: normal;
+}
+.ingredientesDoces{
+	font-size: 120%;
+	max-width: 40%;
+	font-weight: normal;
+}
+#ajuste{
+	margin-top: -10px;
 }
